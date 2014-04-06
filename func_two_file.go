@@ -1,5 +1,6 @@
 /*func with two file*/
 
+
 main.go
 ********************
 package main
