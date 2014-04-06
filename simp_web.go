@@ -1,3 +1,6 @@
+
+/*simple web prog*/
+
 import (
 	"net/http"
 )
